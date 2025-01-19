@@ -11,6 +11,9 @@ Simulate Echarts running in VFP forms
 
 # How to start?
 For Windows 7:
+
     It is necessary to install ndp461.exe. Additionally.
+    
 For Windows >=10:
+
     Run the form directly in VFP
